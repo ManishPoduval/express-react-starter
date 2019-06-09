@@ -24,8 +24,6 @@ In a different terminal tab...
 npm start
 ```
 
-![Imgur](http://i.imgur.com/f7Nlvx4.png)
-
 The "Welcome to React" is a message that comes from the Express server. 
 
 ### What Is Happening Here?
